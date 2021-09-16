@@ -8,12 +8,12 @@ import Sandwich from '../assets/images/pexels-photo-1600711.jpeg';
 import Salmon from '../assets/images/salmon-dish-food-meal-46239.jpeg';
 
 export const foodDishes =[
-    {img:hamburger,  name:'Hamburger', rating:"4.7" },
-    {img:grilledChicken,  name:'Grilled Chicken', rating:"4.8" },
-    {img:Waffle,  name:'Waffles', rating:"4.9" },
-    {img:Tacos,  name:'Stuffed tacos', rating:"4.6" },
-    {img:Pork,  name:'Pork bbq', rating:"4.8" },
-    {img:Dessert,  name:'Fruit dessert', rating:"4.7" },
-    {img:Sandwich,  name:'Ham sandwich', rating:"4.5" },
-    {img:Salmon,  name:'Salmon', rating:"4.9" },
+    {img:hamburger, time:"25-30 min",  name:'Hamburger', rating:"4.7", price:45 },
+    {img:grilledChicken, time:"35-50 min", name:'Grilled Chicken', rating:"4.8", price:65 },
+    {img:Waffle, time:"25-30 min", name:'Waffles', rating:"4.9", price:55 },
+    {img:Tacos, time:"25-30 min", name:'Stuffed tacos', rating:"4.6", price:35 },
+    {img:Pork, time:"35-50 min", name:'Pork bbq', rating:"4.8", price:75 },
+    {img:Dessert, time:"25-30 min", name:'Fruit dessert', rating:"4.7", price:28},
+    {img:Sandwich, time:"25-30 min", name:'Ham sandwich', rating:"4.5", price:30 },
+    {img:Salmon, time:"40-60 min", name:'Salmon', rating:"4.9", price:80},
 ]
