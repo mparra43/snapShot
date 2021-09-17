@@ -1,0 +1,44 @@
+.card-inf{
+    display: flex;
+    margin-left: 30px;
+}
+.card-price{
+    margin-left:30%;
+}
+.pagination{
+    margin-top: 30px;
+}
+
+.card-food {
+    border-radius: 12px;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 190px;
+    height:230px;
+    margin: 5px;
+    background-color: white;
+    border-color:grey;
+    text-align: center;
+}
+.card-food:hover {
+    opacity: 0.9;
+}
+
+.dish{
+    width: 160px;
+    height: 120px;
+    border-radius: 4px;
+}
+.star{
+    width: 15px;
+    height: 15px;
+}
+.btn-food{
+    margin-top: 5px;
+    border-color: transparent;
+}
+.btn-P{
+   border-radius: 4px;
+    border-color: transparent;
+    margin: 5px;
+}

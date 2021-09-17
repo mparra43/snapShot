@@ -1,0 +1,21 @@
+.jumbotron {
+    margin: 40px 50px ;
+   background-color: #FBEEE6 ;
+    border-radius: 12px;
+    padding:20px;
+}
+
+.container-showcase{
+    display: flex;
+}
+.headerImg{
+    height:200px;
+    width: 300px;
+}
+.display-4{
+    margin-top: 90px;
+    font-size: 40px;
+}
+.lean{
+    margin-left: 70%;
+}

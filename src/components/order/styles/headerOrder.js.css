@@ -1,0 +1,38 @@
+.user {
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.container-user {
+    margin: 80px 20px 0 200px;
+    display: flex;
+}
+
+.btn-user {
+    border-radius: 4px;
+    background-color: #F4D03F;
+    border-color: transparent;
+}
+.btn-t{
+    margin-left: 100px;
+    color: #010003 ;
+    border-color: transparent;
+    background:#D5D8DC ;
+}
+.user-watch {
+    padding:10px;
+    display: flex;
+    background-color: #8937E6  ;
+    border-radius: 16px;
+    margin: 30px 8px 50px 30px;
+}
+
+.time {
+    width: 30px;
+    height: 30px;
+    color: #F5B041;
+    background-color: #AF7AC5;
+    border-radius: 4px;
+    margin: 20px 8px 0 8px;
+}

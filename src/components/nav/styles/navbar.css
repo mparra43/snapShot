@@ -1,0 +1,12 @@
+.input-group{
+   margin: 10px 30px 20px 30px;
+}
+
+.form-control{
+   margin-right: 90px;
+   border-radius: 12px;
+}
+
+.input-group div{
+   margin: 5px;
+}

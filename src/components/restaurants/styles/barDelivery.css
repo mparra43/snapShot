@@ -1,0 +1,26 @@
+.barDelivery{
+    display:flex;
+    margin:20px;
+}
+.title{
+    display:flex;
+    margin-left: 30px;
+}
+.hamburger{
+    margin: 10px;
+    width:35px;
+    height:35px;
+}
+.btn-Now{
+    margin-left: 400px;
+    padding:4px;
+    display:flex;
+    background-color:#FC2F02;
+    color:white;
+    border-radius:20px;
+    text-align:center;
+    border-color: transparent;
+}
+.i-btn{
+    margin: 5px 6px 0 6px;
+}
